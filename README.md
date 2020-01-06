@@ -12,3 +12,8 @@
 
 * 历史了解50音起源内容，帮助你更好的理解
 
+![a](https://github.com/jazjay-stack/50-/blob/master/photo/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202020-01-05%20at%2021.52.25.png)
+![](https://github.com/jazjay-stack/50-/blob/master/photo/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202020-01-05%20at%2021.52.32.png)
+![](https://github.com/jazjay-stack/50-/blob/master/photo/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202020-01-05%20at%2021.52.38.png)
+![](https://github.com/jazjay-stack/50-/blob/master/photo/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202020-01-05%20at%2021.52.40.png)
+![](https://github.com/jazjay-stack/50-/blob/master/photo/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202020-01-05%20at%2021.52.43.png)

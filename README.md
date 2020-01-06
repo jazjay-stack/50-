@@ -14,7 +14,7 @@
 
 [服务条款 & 免责声明](https://github.com/jazjay-stack/50-/blob/master/%E6%9C%8D%E5%8A%A1%E6%9D%A1%E6%AC%BE.md)
 
-![a](https://github.com/jazjay-stack/50-/blob/master/photo/1.png)
+![a](https://upload-images.jianshu.io/upload_images/20720473-def7c70e6b029892.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp)
 ![](https://github.com/jazjay-stack/50-/blob/master/photo/2.png)
 ![](https://github.com/jazjay-stack/50-/blob/master/photo/3.png)
 ![](https://github.com/jazjay-stack/50-/blob/master/photo/4.png)

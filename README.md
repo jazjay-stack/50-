@@ -14,16 +14,15 @@
 
 [服务条款 & 免责声明](https://github.com/jazjay-stack/50-/blob/master/%E6%9C%8D%E5%8A%A1%E6%9D%A1%E6%AC%BE.md)
 
-![](https://github.com/jazjay-stack/50-/blob/master/photo/1.png)
+![photo](https://upload-images.jianshu.io/upload_images/20720473-f8c2794e0184a16b.png)
 
-![](https://github.com/jazjay-stack/50-/blob/master/photo/2.png)
+![](https://upload-images.jianshu.io/upload_images/20720473-56ae96581d6a2433.png)
 
-![](https://github.com/jazjay-stack/50-/blob/master/photo/3.png)
+![](https://upload-images.jianshu.io/upload_images/20720473-2f733ec51a64922f.png)
 
-![](https://github.com/jazjay-stack/50-/blob/master/photo/4.png)
+![](https://upload-images.jianshu.io/upload_images/20720473-c7990f46be64a242.png)
 
-![](https://github.com/jazjay-stack/50-/blob/master/photo/5.png)
+![](https://upload-images.jianshu.io/upload_images/20720473-93fd42560f46c23b.png)
 
-![xx](https://upload-images.jianshu.io/upload_images/20720473-f8c2794e0184a16b.png)
 
 有问题联系，邮箱jayjaz@163.com

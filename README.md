@@ -19,5 +19,5 @@
 ![](https://github.com/jazjay-stack/50-/blob/master/photo/3.png)
 ![](https://github.com/jazjay-stack/50-/blob/master/photo/4.png)
 ![](https://github.com/jazjay-stack/50-/blob/master/photo/5.png)
-![](https://upload-images.jianshu.io/upload_images/20720473-def7c70e6b029892.png?imageMogr2/auto-orient/strip)
+![](https://upload-images.jianshu.io/upload_images/20720473-f450b4ebbcc352f7.png)
 有问题联系，邮箱jayjaz@163.com

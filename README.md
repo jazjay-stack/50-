@@ -1,7 +1,6 @@
 # 50音学习
 
-
-##JapaneseStudy-ios上学习日语50音的软件
+JapaneseStudy-ios上学习日语50音的软件
 
 摘要
 

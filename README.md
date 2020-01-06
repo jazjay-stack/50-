@@ -24,6 +24,6 @@
 
 ![](https://github.com/jazjay-stack/50-/blob/master/photo/5.png)
 
-![](https://upload-images.jianshu.io/upload_images/20720473-f450b4ebbcc352f7.png)
+![](https://upload-images.jianshu.io/upload_images/20720473-f8c2794e0184a16b.png)
 
 有问题联系，邮箱jayjaz@163.com

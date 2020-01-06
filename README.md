@@ -12,6 +12,8 @@
 
 * 历史了解50音起源内容，帮助你更好的理解
 
+[服务条款 & 免责声明](/example/服务条款.md)
+
 ![a](https://github.com/jazjay-stack/50-/blob/master/photo/1.png)
 ![](https://github.com/jazjay-stack/50-/blob/master/photo/2.png)
 ![](https://github.com/jazjay-stack/50-/blob/master/photo/3.png)

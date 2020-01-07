@@ -9,6 +9,8 @@
 
 * History to understand the origin of the 50-tone, to help you better understand
 
+[The Chinese version](https://github.com/jazjay-stack/50-/blob/master/English.md)
+
 [Terms of Service & Disclaimer](https://github.com/jazjay-stack/50-/blob/master/%E6%9C%8D%E5%8A%A1%E6%9D%A1%E6%AC%BE.md)
 
 ![photo](https://upload-images.jianshu.io/upload_images/20720473-f8c2794e0184a16b.png)   ![photo1](https://upload-images.jianshu.io/upload_images/20720473-56ae96581d6a2433.png)
